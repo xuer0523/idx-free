@@ -5,12 +5,12 @@
 登录谷歌浏览器。
 打开网址：https://studio.firebase.google.com/?hl=zh-cn
 
-创建工作室用户名：（随意）执行如下安装命令：
+第一步：创建工作室用户名（随意）第二步：执行如下安装命令：
 ```
 wget https://raw.githubusercontent.com/xuer0523/idx-free/refs/heads/main/install.sh
 bash install.sh
 ```
-卸载命令：pkill -f '\.tmp/'	
+第三步：复制节点信息。第四步：使用完毕需要卸载，卸载命令：pkill -f '\.tmp/'
 
 谷歌浏览器vpn插件：https://chromewebstore.google.com/detail/urban-vpn-proxy/eppiocemhmnlbhjplcgkofciiegomcon
 
