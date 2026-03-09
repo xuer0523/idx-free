@@ -1,8 +1,5 @@
 ## 运行命令
-```
-wget https://raw.githubusercontent.com/xuer0523/idx-free/refs/heads/main/install.sh
-bash install.sh
-```
+
 视频教程：https://www.youtube.com/watch?v=HPVi2X89w6A
 
 登录谷歌浏览器。
