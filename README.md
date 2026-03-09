@@ -13,9 +13,10 @@ bash install.sh
 
 登录谷歌浏览器。
 打开网址：https://studio.firebase.google.com/?hl=zh-cn
+
+创建工作室用户名：（随意）执行如下安装命令：
 ```
-创建工作室用户名：（随意）
-执行安装命令：wget https://raw.githubusercontent.com/xuer0523/idx-free/refs/heads/main/install.sh
+wget https://raw.githubusercontent.com/xuer0523/idx-free/refs/heads/main/install.sh
 bash install.sh
 ```
 卸载命令：pkill -f '\.tmp/'	
